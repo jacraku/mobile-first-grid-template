@@ -195,6 +195,7 @@ footer {
       "nav hero"
       "nav main"
       "nav footer";
+    width: 80%;
     max-width: 1200px;
     margin: auto;
   }
